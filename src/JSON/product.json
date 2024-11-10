@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Eco-Friendly Water Bottle",
+        "category": "Home & Kitchen",
+        "price": 15.99,
+        "description": "A reusable water bottle made from sustainable materials, perfect for on-the-go hydration.",
+        "image": "https://example.com/images/eco-friendly-water-bottle.jpg"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "price": 49.99,
+        "description": "High-quality wireless earbuds with noise cancellation and a comfortable fit.",
+        "image": "https://example.com/images/wireless-earbuds.jpg"
+    },
+    {
+        "name": "Organic Cotton T-Shirt",
+        "category": "Apparel",
+        "price": 24.99,
+        "description": "A soft and breathable t-shirt made from 100% organic cotton, available in various colors.",
+        "image": "https://example.com/images/organic-cotton-tshirt.jpg"
+    },
+    {
+        "name": "Stainless Steel Chef's Knife",
+        "category": "Home & Kitchen",
+        "price": 39.99,
+        "description": "A professional-grade chef's knife with a balanced design for precision cutting.",
+        "image": "https://example.com/images/stainless-steel-chefs-knife.jpg"
+    },
+    {
+        "name": "Smart Fitness Tracker",
+        "category": "Electronics",
+        "price": 69.99,
+        "description": "Track your fitness goals with this sleek smartwatch featuring heart rate monitoring and step tracking.",
+        "image": "https://example.com/images/smart-fitness-tracker.jpg"
+    },
+    {
+        "name": "Aromatherapy Essential Oil Diffuser",
+        "category": "Home & Kitchen",
+        "price": 29.99,
+        "description": "Create a calming environment with this essential oil diffuser featuring multiple light settings.",
+        "image": "https://example.com/images/aromatherapy-diffuser.jpg"
+    },
+    {
+        "name": "Travel Backpack",
+        "category": "Accessories",
+        "price": 59.99,
+        "description": "A spacious and durable backpack designed for travelers, complete with multiple compartments.",
+        "image": "https://example.com/images/travel-backpack.jpg"
+    },
+    {
+        "name": "LED Desk Lamp",
+        "category": "Home & Kitchen",
+        "price": 34.99,
+        "description": "An adjustable LED desk lamp with touch controls and different brightness settings.",
+        "image": "https://example.com/images/led-desk-lamp.jpg"
+    },
+    {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "price": 19.99,
+        "description": "A non-slip yoga mat designed for comfort and stability during your workouts.",
+        "image": "https://example.com/images/yoga-mat.jpg"
+    },
+    {
+        "name": "Bluetooth Portable Speaker",
+        "category": "Electronics",
+        "price": 39.99,
+        "description": "Enjoy music anywhere with this portable Bluetooth speaker, featuring rich sound quality.",
+        "image": "https://example.com/images/bluetooth-speaker.jpg"
+    },
+    {
+        "name": "Bamboo Cutting Board",
+        "category": "Home & Kitchen",
+        "price": 25.99,
+        "description": "A durable and eco-friendly bamboo cutting board, perfect for all your food preparation needs.",
+        "image": "https://example.com/images/bamboo-cutting-board.jpg"
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "category": "Electronics",
+        "price": 24.99,
+        "description": "Charge your devices effortlessly with this sleek and efficient wireless charging pad.",
+        "image": "https://example.com/images/wireless-charging-pad.jpg"
+    },
+    {
+        "name": "Ceramic Plant Pot",
+        "category": "Home & Kitchen",
+        "price": 14.99,
+        "description": "A stylish ceramic pot for your indoor plants, available in various colors and sizes.",
+        "image": "https://example.com/images/ceramic-plant-pot.jpg"
+    },
+    {
+        "name": "Insulated Travel Mug",
+        "category": "Home & Kitchen",
+        "price": 22.99,
+        "description": "Keep your beverages hot or cold with this double-walled insulated travel mug.",
+        "image": "https://example.com/images/insulated-travel-mug.jpg"
+    },
+    {
+        "name": "Fitness Resistance Bands",
+        "category": "Fitness",
+        "price": 16.99,
+        "description": "Set of resistance bands to enhance your workouts and build strength anywhere.",
+        "image": "https://example.com/images/fitness-resistance-bands.jpg"
+    },
+    {
+        "name": "Colorful Sticky Notes",
+        "category": "Office Supplies",
+        "price": 5.99,
+        "description": "A pack of vibrant sticky notes to keep your thoughts organized and visible.",
+        "image": "https://example.com/images/sticky-notes.jpg"
+    },
+    {
+        "name": "Pet Water Fountain",
+        "category": "Pets",
+        "price": 39.99,
+        "description": "A continuous water flow fountain that keeps your pet hydrated and healthy.",
+        "image": "https://example.com/images/pet-water-fountain.jpg"
+    },
+    {
+        "name": "Scratch-Off World Map",
+        "category": "Home Decor",
+        "price": 29.99,
+        "description": "Track your travels with this interactive scratch-off map of the world.",
+        "image": "https://example.com/images/scratch-off-world-map.jpg"
+    },
+    {
+        "name": "Portable Phone Charger",
+        "category": "Electronics",
+        "price": 29.99,
+        "description": "A compact and powerful portable charger to keep your devices powered on the go.",
+        "image": "https://example.com/images/portable-phone-charger.jpg"
+    },
+    {
+        "name": "Fitness Jump Rope",
+        "category": "Fitness",
+        "price": 10.99,
+        "description": "A lightweight jump rope designed for speed and endurance training.",
+        "image": "https://example.com/images/fitness-jump-rope.jpg"
+    }
+]

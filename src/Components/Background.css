@@ -1,0 +1,12 @@
+.d1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    
+}
+
+.par{
+    justify-content: center;
+    align-content: center;
+}

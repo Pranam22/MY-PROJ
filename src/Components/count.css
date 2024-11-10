@@ -1,0 +1,10 @@
+button
+{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(135, 135, 182);
+    margin-left: 30px;
+}
+h1{
+    font-size: 60px;
+}
