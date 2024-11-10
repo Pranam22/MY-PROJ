@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Student from "./Components/Student";
+import UseEffect from "./Components/UseEffect";
 function App()
 {
     
@@ -7,7 +7,7 @@ function App()
     
     return(
 
-       <Student></Student>
+       <UseEffect></UseEffect>
     )
 }
 
