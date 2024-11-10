@@ -9,12 +9,14 @@ const UseEffect = () => {
     setData(e.target.value)
 
   }
-  function storeData()
+  function storeData(e)
   {
     let currentData={
       "name":data
     }
     setTasks([...tasks,currentData])
+
+     setData("")
   }
   function deleteData(x)
   {
