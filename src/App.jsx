@@ -1,8 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { BrowserRouter,Routes,Route } from "react-router-dom";
-import ExampUseEffect from "./Components/ExampUseEffect";
-import ButtonUseEffect from "./Components/ButtonUseEffect";
-import APIfetch from "./Components/APIfetch";
+import Student from "./Components/Student";
 function App()
 {
     
@@ -10,7 +7,7 @@ function App()
     
     return(
 
-        <APIfetch></APIfetch>
+       <Student></Student>
     )
 }
 
